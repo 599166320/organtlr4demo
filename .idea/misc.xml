@@ -25,6 +25,26 @@
           <option name="generateListener" value="false" />
           <option name="generateVisitor" value="true" />
         </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/resources/Java.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\yy\organtlr4demo\src\main\java\org\java\antlr4" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/resources/Rows.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\yy\organtlr4demo\src\main\java\org\rows\antlr4" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateListener" value="false" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
       </list>
     </option>
   </component>
